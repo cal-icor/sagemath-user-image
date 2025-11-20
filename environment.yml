@@ -26,7 +26,7 @@ dependencies:
   - jupyter-vscode-proxy==0.6
   - jupyter-server-proxy==4.4.0
 
-  - sage
+  - sage==10.7
 
   # data science
   - datascience==0.18.1
